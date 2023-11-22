@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Errores de permisos
-date: 2022-11-22
+date: 2023-11-22
 classes: wide
 header:
   teaser: /assets/images/slae32.png
