@@ -1,3 +1,19 @@
+---
+layout: single
+    title: Como conectarse una vpn con Kali Linux
+    excerpt: "Un  pequeño apunte para saber como conectarme a una vpn usando openVPN."
+date: 2023-11-22
+classes: wide
+header:
+  #teaser: /assets/images/htb-writeup-delivery/delivery_logo.png
+  teaser_home_page: true
+  #icon: /assets/images/hackthebox.webp
+categories:
+  - tips
+tags:  
+  - comandos
+---
+
 Con Kali nos conectamos a la vpn simplemente con el comando
 
 "openvpn "archivo.ovpn" "
