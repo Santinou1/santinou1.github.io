@@ -9,9 +9,9 @@ categories:
   - slae
   - infosec
 tags:
-  - slae
-  - assembly
-  - encoding
+  - ciberseguridad
+  - consejos
+  - tip
 ---
 
 Con Kali nos conectamos a la vpn simplemente con el comando

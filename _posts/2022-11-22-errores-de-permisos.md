@@ -9,9 +9,9 @@ categories:
   - slae
   - infosec
 tags:
-  - slae
-  - assembly
-  - encoding
+  - ciberseguridad
+  - consejos
+  - tip
 ---
 
 Tanto en el .ova de EducacionIT y el de Udemy de Alvaro, tenia errores de privilegios con sudo.
