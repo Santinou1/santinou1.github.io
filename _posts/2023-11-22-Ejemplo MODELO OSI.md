@@ -1,3 +1,18 @@
+---
+layout: single
+title: Ejemplo modelo OSI
+date: 2023-11-22
+classes: wide
+header:
+  teaser: /assets/images/slae32.png
+categories:
+  - slae
+  - infosec
+tags:
+   - redes
+  - osi
+  - introduccion a redes
+---
 
 La parte izquierda representa el dispositivo de origen, puede ser por ejemplo nuestro dispositivo (Pc, Celular etc.)
 
@@ -5,7 +20,7 @@ Por otro lado la parte derecha representa el dispositivo destino.
 
 Lo demas son routers exceptuando el servidor de arriba a la izquierda.
 
-![[Pasted image 20231120114554.png]]
+![[Pasted image 20231120114554.png]](../assets/images/img-ciberseguridad-udemy/Pasted%20image%2020231120114554.png)
 
 Ahora si podemos empezar con el ejemplo del grafico de arriba.
 
@@ -23,4 +38,4 @@ Este paquete llega eventualmente al servidor de WhatsApp, donde se determina a q
 
 Vuelvo a insertar la imagen del ejemplo.
 
-![[Pasted image 20231120114554.png]]
+![[Pasted image 20231120114554.png]](../assets/images/img-ciberseguridad-udemy/Pasted%20image%2020231120114554.png)

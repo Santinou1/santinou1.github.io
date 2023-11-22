@@ -9,9 +9,9 @@ categories:
   - slae
   - infosec
 tags:
-  - ciberseguridad
-  - consejos
-  - tip
+   - redes
+  - osi
+  - introduccion a redes
 ---
 
 #### El **Modelo OSI** consta de 7 capas.

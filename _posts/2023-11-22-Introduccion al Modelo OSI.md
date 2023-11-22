@@ -1,3 +1,19 @@
+---
+layout: single
+title: Introduccion al modelo OSI
+date: 2023-11-22
+classes: wide
+header:
+  teaser: /assets/images/slae32.png
+categories:
+  - slae
+  - infosec
+tags:
+   - redes
+  - osi
+  - introduccion a redes
+---
+
 La ISO (Organización Internacional de Normalización) creo el modelo OSI, para que todos se puedan estandarizar y conectarse a una misma red, porque anteriormente si vos querias descargar un archivo por ejemplo tu computador hablaba un idioma y el computador donde estaba alojado el archivo hablaba otro.
 
  La funcionalidad del Modelo OSI es poder entender e interpretar como surgen las comunicaciones en una red de computadoras.
@@ -12,4 +28,4 @@ Inserto imagen de las 7 capas.
 
 (Las 7 capas son de modelo REFERENCIAL, no es unna implementacion)
 
-![[Pasted image 20231120102153.png]]
+![[Pasted image 20231120102153.png]](../assets/images/img-ciberseguridad-udemy/Pasted%20image%2020231120102153.png)

@@ -1,3 +1,19 @@
+---
+layout: single
+title: Que es una red
+date: 2023-11-22
+classes: wide
+header:
+  teaser: /assets/images/slae32.png
+categories:
+  - slae
+  - infosec
+tags:
+   - redes
+  - osi
+  - introduccion a redes
+---
+
 Antes de iniciar hablando del modelo OSI , hay que determinar y entender Que es un Red.
 
 Gracias al modelo OSI las computadoras pueden comunicarse y asi formar Redes de Computadoras.
