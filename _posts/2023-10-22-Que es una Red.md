@@ -23,7 +23,7 @@ Por lo tanto no hacemos nada hablando del modelo OSI sin definir previamente que
 
 Una **Red de Computadoras** Es un conjunto de equipos conectadas entre si, ya sea mediante cables, onda electromagneticas, radiofrecuencia etc.
 
-![[Pasted image 20231120111214.png]]
+![[Pasted image 20231120111214.png]](../assets/images/img-ciberseguridad-udemy/Pasted%20image%2020231120111214.png)
 
 El objetivo principal de tener una Red de computadoras es compartir recursos, para facilitar u optimizar las tareas de los usuarios.
 
