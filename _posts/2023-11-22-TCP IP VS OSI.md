@@ -13,6 +13,7 @@ tags:
   - introduccion a redes
   - TCP/IP
   - OSI
+  - Ciberseguridad Udemy
 ---
 
 Cuando hablamos de las capas del modelo OSI es un modelo TEORICO.

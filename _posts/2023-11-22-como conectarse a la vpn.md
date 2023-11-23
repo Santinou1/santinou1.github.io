@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Como conectarse a una VPN
-date: 2022-11-22
+date: 2023-11-22
 classes: wide
 header:
   teaser: /assets/images/slae32.png
@@ -12,6 +12,8 @@ tags:
   - ciberseguridad
   - consejos
   - tip
+  - Ciberseguridad Udemy
+
 ---
 
 Con Kali nos conectamos a la vpn simplemente con el comando

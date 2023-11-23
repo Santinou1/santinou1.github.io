@@ -11,6 +11,7 @@ categories:
 tags:
   - redes
   - introduccion a redes
+  - Ciberseguridad Udemy
 ---
 
 **Como se realizan las comunicaciones?

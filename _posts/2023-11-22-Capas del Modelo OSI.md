@@ -12,6 +12,7 @@ tags:
    - redes
   - osi
   - introduccion a redes
+  - Ciberseguridad Udemy
 ---
 
 #### El **Modelo OSI** consta de 7 capas.

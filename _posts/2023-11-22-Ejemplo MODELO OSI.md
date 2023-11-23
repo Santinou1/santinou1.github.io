@@ -12,6 +12,7 @@ tags:
    - redes
   - osi
   - introduccion a redes
+  - Ciberseguridad Udemy
 ---
 
 La parte izquierda representa el dispositivo de origen, puede ser por ejemplo nuestro dispositivo (Pc, Celular etc.)

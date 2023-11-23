@@ -12,6 +12,7 @@ tags:
   - redes
   - introduccion a redes
   - Mascara de Red
+  - Ciberseguridad Udemy
 ---
 
 
@@ -39,13 +40,13 @@ En mi caso seria
 	**0.116*
 
 Usando una analogia podriamos decir que la red es la calle de mi casa y el host el numero.
-![[Pasted image 20231121102157.png]]
+![[Pasted image 20231121102157.png]](../assets/images/img-ciberseguridad-udemy/Pasted%20image%2020231121102157.png)
 
 ¿Como el sistema distingue entre la **red y el host**?
 
 Mediante una **Mascara de Subred**
 
-![[Pasted image 20231121102421.png]]
+![[Pasted image 20231121102421.png]](../assets/images/img-ciberseguridad-udemy/Pasted%20image%2020231121102421.png)
 
 En resumen, la **Mascara de Subred** actúa como un filtro que separa la parte de la dirección IP que identifica la red de la parte que identifica los dispositivos dentro de esa red. Aquí hay un resumen de sus funciones clave:
 

@@ -11,6 +11,7 @@ categories:
 tags:
   - redes
   - introduccion a redes
+  - Ciberseguridad Udemy
 ---
 
 Cuando hablamos de Tipos de Redes, los tipos se clasifican en base a su TAMAÑO.

@@ -11,6 +11,7 @@ categories:
 tags:
   - redes
   - introduccion a redes
+  - Ciberseguridad Udemy
 ---
 
 ¿Qué es una red? , ¿En que momento se conforma una red?

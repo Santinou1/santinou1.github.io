@@ -12,6 +12,7 @@ tags:
   - ciberseguridad
   - consejos
   - tip
+  - Ciberseguridad Udemy
 ---
 
 Tanto en el .ova de EducacionIT y el de Udemy de Alvaro, tenia errores de privilegios con sudo.

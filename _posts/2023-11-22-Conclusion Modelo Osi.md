@@ -12,6 +12,8 @@ tags:
   - redes
   - osi
   - introduccion a redes
+  - Ciberseguridad Udemy
+
 ---
 
 El modelo OSI es fundamental para entender cómo funcionan las comunicaciones en red y cómo los diferentes componentes interactúan entre sí.

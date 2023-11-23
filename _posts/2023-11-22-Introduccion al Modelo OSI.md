@@ -12,6 +12,7 @@ tags:
    - redes
   - osi
   - introduccion a redes
+  - Ciberseguridad Udemy
 ---
 
 La ISO (Organización Internacional de Normalización) creo el modelo OSI, para que todos se puedan estandarizar y conectarse a una misma red, porque anteriormente si vos querias descargar un archivo por ejemplo tu computador hablaba un idioma y el computador donde estaba alojado el archivo hablaba otro.
