@@ -13,6 +13,7 @@ tags:
   - ejemplo
   - introduccion a redes
   - Ciberseguridad Udemy
+  - Dia 2
 ---
 
 Imaginemos una Autopista de Autos, en donde en una autopista grande existen diferentes carriles en donde autos pueden circular.

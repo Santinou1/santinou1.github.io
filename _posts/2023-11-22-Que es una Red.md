@@ -13,6 +13,7 @@ tags:
   - osi
   - introduccion a redes
   - Ciberseguridad Udemy
+  - Dia 2
 ---
 
 Antes de iniciar hablando del modelo OSI , hay que determinar y entender Que es un Red.

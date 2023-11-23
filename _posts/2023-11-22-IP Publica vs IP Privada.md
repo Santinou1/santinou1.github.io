@@ -13,6 +13,7 @@ tags:
   - introduccion a redes
   - IP
   - Ciberseguridad Udemy
+  - Dia 3
 ---
 
 IP Publica= Su enrutamiento es global y permite su acceso.

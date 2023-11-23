@@ -14,6 +14,7 @@ tags:
   - TCP/IP
   - OSI
   - Ciberseguridad Udemy
+  - Dia 2
 ---
 
 Cuando hablamos de las capas del modelo OSI es un modelo TEORICO.

@@ -13,7 +13,7 @@ tags:
   - consejos
   - tip
   - Ciberseguridad Udemy
-
+  - Dia 1
 ---
 
 Con Kali nos conectamos a la vpn simplemente con el comando

@@ -13,6 +13,7 @@ tags:
   - introduccion a redes
   - IP
   - Ciberseguridad Udemy
+  - Dia 3
 ---
 
 El Protocolo IP es el protocolo de internet mas conocido.

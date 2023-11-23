@@ -13,6 +13,7 @@ tags:
   - introduccion a redes
   - Servicios
   - Ciberseguridad Udemy
+  - Dia 2
 ---
 
 Un servicio de red es como un mensajero que ayuda a los dispositivos a comunicarse entre sí en una red de computadoras. Imagina que tus dispositivos (computadoras, teléfonos, impresoras) son vecinos que desean enviarse mensajes. El servicio de red actúa como el correo o el mensajero que lleva esos mensajes de un vecino al otro.

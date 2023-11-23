@@ -10,9 +10,10 @@ categories:
   - infosec
 tags:
   - redes
-  - osi
+  - OSI
   - introduccion a redes
   - Ciberseguridad Udemy
+  - Dia 2
 ---
 
 La parte izquierda representa el dispositivo de origen, puede ser por ejemplo nuestro dispositivo (Pc, Celular etc.)

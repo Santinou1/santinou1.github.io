@@ -10,9 +10,10 @@ categories:
   - infosec
 tags:
   - redes
-  - osi
+  - OSI
   - introduccion a redes
   - Ciberseguridad Udemy
+  - Dia 2
 ---
 
 #### El **Modelo OSI** consta de 7 capas.
