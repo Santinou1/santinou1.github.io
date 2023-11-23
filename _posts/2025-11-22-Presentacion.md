@@ -1,10 +1,11 @@
 ---
 layout: single
-title: Presentacion 
+title: Presentacion  y Roadmap
+excerpt: "Presentacion sobre el estudiante que esta escribiendo esto. Y tambien dejo todo lo que voy a aprender para llegar a ser un SysAdmin y Ethical Hacker"
 date: 2025-11-22
 classes: wide
 header:
-  teaser: /assets/images/slae32.png
+  teaser: /assets/1.png
 categories:
   - slae
   - infosec
