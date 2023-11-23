@@ -9,7 +9,7 @@ categories:
   - slae
   - infosec
 tags:
-   - redes
+  - redes
   - osi
   - introduccion a redes
   - Ciberseguridad Udemy
