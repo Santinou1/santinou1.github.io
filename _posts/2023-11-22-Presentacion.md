@@ -5,7 +5,7 @@ excerpt: "Presentacion sobre el estudiante que esta escribiendo esto. Y tambien 
 date: 2023-11-22
 classes: wide
 header:
-  teaser: /assets/1.png
+  teaser: "/assets/1.png"
 categories:
   - slae
   - infosec
