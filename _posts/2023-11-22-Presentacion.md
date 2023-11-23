@@ -24,7 +24,7 @@ Bueno, para estudiar decidi hacerme un roadmap que consta de realizar los siguie
 
 Los cursos que voy a tomar van a ser las 3 carreras de EducacionIT y un curso de udemy
  
-- Carrrera en Ciberseguridad
+- Carrera en Ciberseguridad
 - Carrera en Redes Informaticas
 - Carrera en Linux
 - Udemy  Hacking Ético Ofensivo. 100% Practico en Red Team. +42hs
