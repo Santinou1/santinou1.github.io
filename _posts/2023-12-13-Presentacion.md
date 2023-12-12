@@ -2,7 +2,7 @@
 layout: single
 title: Presentacion  y Roadmap
 excerpt: "Presentacion sobre el estudiante que esta escribiendo esto. Y tambien dejo todo lo que voy a aprender para llegar a ser un SysAdmin y Ethical Hacker"
-date: 2023-11-24
+date: 2023-12-12
 classes: wide
 header:
   teaser: "/assets/1.png"
